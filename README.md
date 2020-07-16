@@ -184,7 +184,6 @@ print(response.body);
 | Contributors |
 |--------------|
 | [Ergito Vilanculos](https://github.com/realrgt) |
-|--------------|
 | [Igor L Sambo](https://github.com/LSambo02) |
 
 ----------------------------
